@@ -34,8 +34,8 @@ drawLine(50, 100)
 drawLine(-50,100)
 drawLine(-50,-100)
 
-click = 0
-a, b, c, d, e, f, g, h, i = [0]*9
+click = 0                               #Used to print noughts & crosses alternately. There'll be an increment of 1 after each mouse click inside the grid
+a, b, c, d, e, f, g, h, i = [0]*9       #Used to check whether a particular square is vacant or not
 
 def goto(x, y):
     global click, a, b, c, d, e, f, g, h, i
@@ -45,7 +45,7 @@ def goto(x, y):
     if -82<x<175 and -3<y<255:          #Only mouse-clicks inside the range of grid shall be taken care of
         turtle.goto(x, y-50)
         if 0<x<100 and 75<y<175:
-            if a == 1:                  #
+            if a == 1:                  #Those squares which've been already filled up won't be interspersed even if the user clicks multiple times
                 pass
             elif click%2 == 0:
                 turtle.goto(50, 75)
@@ -192,16 +192,3 @@ def goto(x, y):
 turtle.penup()
 turtle.hideturtle()
 turtle.onscreenclick(goto)
-
-
-    
-
-
-    
-    
-
-    
-    
-    
-    
-
