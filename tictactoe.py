@@ -1,7 +1,7 @@
 import turtle
 
 t = turtle.Turtle()
-def drawLine(x, y):
+def drawLine(x, y):                     #Creating tic-tac-toe grid
     t.hideturtle()
     t.speed(10000)
     if x>=0:
@@ -42,10 +42,10 @@ def goto(x, y):
     
     print('Moving to {}, {}'.format(x,y))
 
-    if -82<x<175 and -3<y<255:
+    if -82<x<175 and -3<y<255:          #Only mouse-clicks inside the range of grid shall be taken care of
         turtle.goto(x, y-50)
         if 0<x<100 and 75<y<175:
-            if a == 1:
+            if a == 1:                  #
                 pass
             elif click%2 == 0:
                 turtle.goto(50, 75)
