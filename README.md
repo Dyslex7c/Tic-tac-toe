@@ -9,5 +9,5 @@ Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or X
 ![Screenshot2](https://user-images.githubusercontent.com/98543992/152632183-6bde789d-0602-46a5-b02f-b8fa7bfaf0b1.png)
 
 # Got Questions?
-[![Whatsapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/40px-WhatsApp.svg.png)](https://opensource.org/licenses/MIT)
-DM me on WhatsApp!
+[![Whatsapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/40px-WhatsApp.svg.png)](https://api.whatsapp.com/send?phone=917980369670&text=)
+¡DM me on WhatsApp!
