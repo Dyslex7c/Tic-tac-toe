@@ -7,7 +7,3 @@ Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or X
 ![Screenshot1](https://user-images.githubusercontent.com/98543992/152632123-c5ca5b9a-00a0-4ca3-bc72-97e490d73097.png)
 
 ![Screenshot2](https://user-images.githubusercontent.com/98543992/152632183-6bde789d-0602-46a5-b02f-b8fa7bfaf0b1.png)
-
-# Got Questions?
-[![Whatsapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/40px-WhatsApp.svg.png)](https://api.whatsapp.com/send?phone=917980369670&text=)
-¡DM me on WhatsApp!
